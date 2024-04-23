@@ -9,7 +9,7 @@
     "ejs": "2.4.1",
     "express": "4.13.3",
     "path": "0.12.7",
-    "mongoose": "4.9.3",
+    "mongoose": "5.13.20",
     "body-parser": "1.17.1",
     "compression": "1.6.2"
   }
